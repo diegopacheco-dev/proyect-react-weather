@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/repository-name/static/js/main.8d2c9c15.chunk.js",
-    "main.js.map": "/repository-name/static/js/main.8d2c9c15.chunk.js.map",
-    "runtime-main.js": "/repository-name/static/js/runtime-main.f5390f93.js",
-    "runtime-main.js.map": "/repository-name/static/js/runtime-main.f5390f93.js.map",
-    "static/css/2.31ff0196.chunk.css": "/repository-name/static/css/2.31ff0196.chunk.css",
-    "static/js/2.a0f834ee.chunk.js": "/repository-name/static/js/2.a0f834ee.chunk.js",
-    "static/js/2.a0f834ee.chunk.js.map": "/repository-name/static/js/2.a0f834ee.chunk.js.map",
-    "index.html": "/repository-name/index.html",
-    "static/css/2.31ff0196.chunk.css.map": "/repository-name/static/css/2.31ff0196.chunk.css.map",
-    "static/js/2.a0f834ee.chunk.js.LICENSE.txt": "/repository-name/static/js/2.a0f834ee.chunk.js.LICENSE.txt"
+    "main.js": "/proyect-react-weather/static/js/main.8d2c9c15.chunk.js",
+    "main.js.map": "/proyect-react-weather/static/js/main.8d2c9c15.chunk.js.map",
+    "runtime-main.js": "/proyect-react-weather/static/js/runtime-main.2163cc47.js",
+    "runtime-main.js.map": "/proyect-react-weather/static/js/runtime-main.2163cc47.js.map",
+    "static/css/2.31ff0196.chunk.css": "/proyect-react-weather/static/css/2.31ff0196.chunk.css",
+    "static/js/2.e166efe3.chunk.js": "/proyect-react-weather/static/js/2.e166efe3.chunk.js",
+    "static/js/2.e166efe3.chunk.js.map": "/proyect-react-weather/static/js/2.e166efe3.chunk.js.map",
+    "index.html": "/proyect-react-weather/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/proyect-react-weather/static/css/2.31ff0196.chunk.css.map",
+    "static/js/2.e166efe3.chunk.js.LICENSE.txt": "/proyect-react-weather/static/js/2.e166efe3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f5390f93.js",
+    "static/js/runtime-main.2163cc47.js",
     "static/css/2.31ff0196.chunk.css",
-    "static/js/2.a0f834ee.chunk.js",
+    "static/js/2.e166efe3.chunk.js",
     "static/js/main.8d2c9c15.chunk.js"
   ]
 }
